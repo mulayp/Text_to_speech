@@ -1,5 +1,5 @@
 # Text_to_speech
 
-developed an Todo List App where users
-can add a new todo task , delete it , mark it
-as completed.
+developed an Text to Speech Android App
+using java where users can enter any text
+and the app would play it as an audio.
